@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Vending-Machine-Exercise/static/css/main.d70540e4.chunk.css",
+    "main.js": "/Vending-Machine-Exercise/static/js/main.87cb5098.chunk.js",
+    "main.js.map": "/Vending-Machine-Exercise/static/js/main.87cb5098.chunk.js.map",
+    "runtime-main.js": "/Vending-Machine-Exercise/static/js/runtime-main.d498d6b0.js",
+    "runtime-main.js.map": "/Vending-Machine-Exercise/static/js/runtime-main.d498d6b0.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Vending-Machine-Exercise/static/css/2.2a86faee.chunk.css",
+    "static/js/2.adf84e83.chunk.js": "/Vending-Machine-Exercise/static/js/2.adf84e83.chunk.js",
+    "static/js/2.adf84e83.chunk.js.map": "/Vending-Machine-Exercise/static/js/2.adf84e83.chunk.js.map",
+    "index.html": "/Vending-Machine-Exercise/index.html",
+    "precache-manifest.73e8d81122086ca90467ddc98176bdf7.js": "/Vending-Machine-Exercise/precache-manifest.73e8d81122086ca90467ddc98176bdf7.js",
+    "service-worker.js": "/Vending-Machine-Exercise/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Vending-Machine-Exercise/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d70540e4.chunk.css.map": "/Vending-Machine-Exercise/static/css/main.d70540e4.chunk.css.map",
+    "static/js/2.adf84e83.chunk.js.LICENSE.txt": "/Vending-Machine-Exercise/static/js/2.adf84e83.chunk.js.LICENSE.txt",
+    "static/media/lays.png": "/Vending-Machine-Exercise/static/media/lays.02cd9e32.png",
+    "static/media/pepsi-can.jpg": "/Vending-Machine-Exercise/static/media/pepsi-can.dfe366ed.jpg",
+    "static/media/App.css": "/Vending-Machine-Exercise/static/media/vending-machine.fc3a6954.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d498d6b0.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.adf84e83.chunk.js",
+    "static/css/main.d70540e4.chunk.css",
+    "static/js/main.87cb5098.chunk.js"
+  ]
+}
