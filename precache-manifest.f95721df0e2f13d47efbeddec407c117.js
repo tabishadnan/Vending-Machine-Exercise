@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "408a7d739e0be650143b7129413a8b5f",
+    "revision": "11594aa4329f57a838ca5832a4c3cc28",
     "url": "/Vending-Machine-Exercise/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vending-Machine-Exercise/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "46a98adc627fb2af4c2c",
-    "url": "/Vending-Machine-Exercise/static/css/main.d70540e4.chunk.css"
+    "revision": "5cb9a988c46f0ee8c79c",
+    "url": "/Vending-Machine-Exercise/static/css/main.19bef61e.chunk.css"
   },
   {
     "revision": "3306c19e743ad1d41056",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vending-Machine-Exercise/static/js/2.adf84e83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46a98adc627fb2af4c2c",
-    "url": "/Vending-Machine-Exercise/static/js/main.87cb5098.chunk.js"
+    "revision": "5cb9a988c46f0ee8c79c",
+    "url": "/Vending-Machine-Exercise/static/js/main.62fbdf76.chunk.js"
   },
   {
     "revision": "4251834583abc789308c",
