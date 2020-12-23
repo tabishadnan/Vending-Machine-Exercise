@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/vending-machine-exercise/static/css/main.528a45a6.chunk.css",
-    "main.js": "/vending-machine-exercise/static/js/main.855a7d19.chunk.js",
-    "main.js.map": "/vending-machine-exercise/static/js/main.855a7d19.chunk.js.map",
-    "runtime-main.js": "/vending-machine-exercise/static/js/runtime-main.29ed9437.js",
-    "runtime-main.js.map": "/vending-machine-exercise/static/js/runtime-main.29ed9437.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/vending-machine-exercise/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.8cc2a77c.chunk.js": "/vending-machine-exercise/static/js/2.8cc2a77c.chunk.js",
-    "static/js/2.8cc2a77c.chunk.js.map": "/vending-machine-exercise/static/js/2.8cc2a77c.chunk.js.map",
+    "main.css": "/vending-machine-exercise/static/css/main.e45a90fc.chunk.css",
+    "main.js": "/vending-machine-exercise/static/js/main.0d1279eb.chunk.js",
+    "main.js.map": "/vending-machine-exercise/static/js/main.0d1279eb.chunk.js.map",
+    "runtime-main.js": "/vending-machine-exercise/static/js/runtime-main.19a130af.js",
+    "runtime-main.js.map": "/vending-machine-exercise/static/js/runtime-main.19a130af.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/vending-machine-exercise/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5b078a49.chunk.js": "/vending-machine-exercise/static/js/2.5b078a49.chunk.js",
+    "static/js/2.5b078a49.chunk.js.map": "/vending-machine-exercise/static/js/2.5b078a49.chunk.js.map",
     "index.html": "/vending-machine-exercise/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/vending-machine-exercise/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.528a45a6.chunk.css.map": "/vending-machine-exercise/static/css/main.528a45a6.chunk.css.map",
-    "static/js/2.8cc2a77c.chunk.js.LICENSE.txt": "/vending-machine-exercise/static/js/2.8cc2a77c.chunk.js.LICENSE.txt",
-    "static/media/lays.1d22496e.png": "/vending-machine-exercise/static/media/lays.1d22496e.png",
-    "static/media/pepsi-can.6eae2497.jpg": "/vending-machine-exercise/static/media/pepsi-can.6eae2497.jpg",
-    "static/media/App.css": "/vending-machine-exercise/static/media/vending-machine.25b859fe.png"
+    "precache-manifest.7c62f696565e1dbacd6ad264f97a349a.js": "/vending-machine-exercise/precache-manifest.7c62f696565e1dbacd6ad264f97a349a.js",
+    "service-worker.js": "/vending-machine-exercise/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/vending-machine-exercise/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e45a90fc.chunk.css.map": "/vending-machine-exercise/static/css/main.e45a90fc.chunk.css.map",
+    "static/js/2.5b078a49.chunk.js.LICENSE.txt": "/vending-machine-exercise/static/js/2.5b078a49.chunk.js.LICENSE.txt",
+    "static/media/lays.png": "/vending-machine-exercise/static/media/lays.02cd9e32.png",
+    "static/media/pepsi-can.jpg": "/vending-machine-exercise/static/media/pepsi-can.dfe366ed.jpg",
+    "static/media/App.css": "/vending-machine-exercise/static/media/vending-machine.fc3a6954.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.29ed9437.js",
-    "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.8cc2a77c.chunk.js",
-    "static/css/main.528a45a6.chunk.css",
-    "static/js/main.855a7d19.chunk.js"
+    "static/js/runtime-main.19a130af.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5b078a49.chunk.js",
+    "static/css/main.e45a90fc.chunk.css",
+    "static/js/main.0d1279eb.chunk.js"
   ]
 }
