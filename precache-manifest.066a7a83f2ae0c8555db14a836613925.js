@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cd36f39e51c56592e0c4cbc3cedd097",
+    "revision": "9308015938948f314bea188a97b4e9db",
     "url": "/vending-machine-exercise/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vending-machine-exercise/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "63919319d7050c89427a",
+    "revision": "54a4958fa2c837cbd65b",
     "url": "/vending-machine-exercise/static/css/main.e45a90fc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vending-machine-exercise/static/js/2.5b078a49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63919319d7050c89427a",
-    "url": "/vending-machine-exercise/static/js/main.0d1279eb.chunk.js"
+    "revision": "54a4958fa2c837cbd65b",
+    "url": "/vending-machine-exercise/static/js/main.f1fc9cf1.chunk.js"
   },
   {
     "revision": "4610bd166917433d4e7a",
